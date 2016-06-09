@@ -1,14 +1,14 @@
-layout_spectrum: 0.8710365330334753
-typography_spectrum: 0.8178878009784967
+layout_spectrum: 0.22869746759533882
+typography_spectrum: 0.3694220806937665
 color:
-  brandStrength: 0.7305667232722044
-  lightness: 0.22727562044747174
-  saturation: 0.778209401294589
-  rhythmicContrast: 0.9768326352350414
+  brandStrength: 0.6204754691570997
+  lightness: 0.1421842605341226
+  saturation: 0.7012831389438361
+  rhythmicContrast: 0.09383288165554404
   brandColors:
-    - '#1C1D21'
-    - '#31353D'
-    - '#445878'
-    - '#92CDCF'
-    - '#EEEFF7'
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
 name: Humpback Whales
