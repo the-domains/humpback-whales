@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-13T09:04:57.334Z'
+datePublished: '2016-06-13T09:06:14.849Z'
 isBasedOnUrl: 'http://whalesofthesouthpacific.whale-nation.com/albums/whale-portraits/'
 keywords:
   - humpback
@@ -14,7 +14,7 @@ keywords:
   - protected
 related: []
 author: []
-dateModified: '2016-06-13T09:04:34.440Z'
+dateModified: '2016-06-13T09:06:13.755Z'
 title: Mother love...
 app_links: []
 publisher:
@@ -28,8 +28,8 @@ description: >-
   overwhelming bond on some of these images while snorkeling in South Pacific in
   the Archipelago of Vava'u.
 inLanguage: en
-starred: false
 sourcePath: _posts/2016-06-13-mother-love.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
